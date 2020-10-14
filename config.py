@@ -1,1 +1,1 @@
-conf_directory = r"C:\Users\nikni\Documents"
+conf_directory = r"./"

@@ -1,0 +1,5 @@
+.list-item {
+    display: grid;
+    grid-template: auto / 3fr 1fr 2fr;
+    margin-bottom: 6px;
+}
